@@ -1,11 +1,58 @@
-SkyExchanger Rework Mod
-About the Mod
-The SkyExchanger Rework mod is a comprehensive overhaul of the original SkyExchanger, designed to enhance and expand the gameplay experience for Minecraft players. This mod introduces new features, improved mechanics, and additional content, making your SkyExchanger journey more engaging and enjoyable.
-Key Features Enhanced Exchange System: A revamped exchange system that offers more balanced and intuitive trade options.
-New Items and Blocks: Discover a variety of new items and blocks, each with unique functionalities and uses.
-Improved UI: A user-friendly interface that simplifies navigation and enhances usability.
-Custom Quests: Engage in a series of custom quests that provide rewards and challenge your skills.
-Optimized Performance: Improved performance and stability for a smoother gameplay experience.
-Installation
-Download the Mod: Head over to the Releases section and download the latest version of the mod.
-Install Minecraft CurseForge: Ensure yo
+# 🌌 Skyexchanger Rework Mod 🌌
+
+![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-blue)
+![License](https://img.shields.io/github/license/SawnJaw/skyexchanger-rework)
+![Issues](https://img.shields.io/github/issues/SawnJaw/skyexchanger-rework)
+
+Skyexchanger Rework Mod is a Minecraft mod that reimagines and enhances the original Skyexchanger mod, providing a fresh and exciting experience for players who enjoy skyblock-style gameplay.
+
+## ✨ Features
+
+- 🛠️ **Enhanced Crafting System**: Improved recipes and crafting mechanics to streamline gameplay.
+- 🌟 **New Items and Blocks**: A variety of new items and blocks to explore and utilize.
+- 📦 **Custom Storage Solutions**: Innovative storage options to keep your items organized.
+- 🌌 **Dynamic World Interactions**: Interact with the world in new and exciting ways.
+
+## 🚀 Getting Started
+
+To start using the Skyexchanger Rework Mod, follow these steps:
+
+1. Download and install Minecraft Forge for version 1.16.5.
+2. Download the latest version of the Skyexchanger Rework Mod from the [releases page](https://github.com/yourusername/skyexchanger-rework/releases).
+3. Place the downloaded .jar file into the `mods` folder in your Minecraft directory.
+4. Launch Minecraft and enjoy the new features!
+
+## 📚 Documentation
+
+For detailed information on the mod's features and how to use them, please refer to the [Wiki](https://github.com/yourusername/skyexchanger-rework/wiki).
+
+## 🛠️ Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push them to your branch.
+4. Create a pull request with a detailed description of your changes.
+
+Please make sure to follow the [contribution guidelines](CONTRIBUTING.md).
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+Special thanks to:
+
+- The original Skyexchanger mod developers for their inspiring work.
+- The Minecraft modding community for their invaluable resources and support.
+
+## 📞 Contact
+
+If you have any questions or feedback, feel free to reach out to us:
+
+- **Email**: support@skyexchanger-rework.com
+- **Discord**: [Join our community](https://discord.gg/skyexchangerrework)
+
+Enjoy your skyblock adventure with Skyexchanger Rework Mod! 🌟
