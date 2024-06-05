@@ -18,7 +18,7 @@ Skyexchange Rework Mod is a Minecraft mod that reimagines and enhances the origi
 To start using the Skyexchange Rework Mod, follow these steps:
 
 1. Download and install SkyexchangeRework.exe
-2. Download the latest version of the Skyexchange from the [releases page](https://github.com/yourusername/skyexchanger-rework/releases).
+2. Download the latest version of the Skyexchange from the [releases page](https://www.curseforge.com/minecraft/modpacks/skyexchange).
 4. Launch Minecraft and enjoy the new features!
 
 ## 📚 Documentation
