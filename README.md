@@ -1,6 +1,6 @@
 # 🌌 Skyexchange Rework Mod 🌌
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.10.2-blue)
 ![License](https://img.shields.io/github/license/SawnJaw/skyexchange-rework)
 ![Issues](https://img.shields.io/github/issues/SawnJaw/skyexchange-rework)
 
