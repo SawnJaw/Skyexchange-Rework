@@ -1,6 +1,6 @@
 # 🌌 Skyexchange Rework Mod 🌌
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.10.2-blue)
 ![License](https://img.shields.io/github/license/SawnJaw/skyexchange-rework)
 ![Issues](https://img.shields.io/github/issues/SawnJaw/skyexchange-rework)
 
@@ -18,7 +18,7 @@ Skyexchange Rework Mod is a Minecraft mod that reimagines and enhances the origi
 To start using the Skyexchange Rework Mod, follow these steps:
 
 1. Download and install SkyexchangeRework.exe
-2. Download the latest version of the Skyexchange from the [releases page](https://github.com/yourusername/skyexchanger-rework/releases).
+2. Download the latest version of the Skyexchange from the [releases page](https://www.curseforge.com/minecraft/modpacks/skyexchange).
 4. Launch Minecraft and enjoy the new features!
 
 ## 📚 Documentation
